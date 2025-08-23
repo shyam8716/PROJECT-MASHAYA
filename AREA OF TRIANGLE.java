@@ -1,7 +1,7 @@
 import java.io.*;
 class Triangle
 {
-    public static void main(String args[])
+     public static void main(String args[])
     {
         double b = 10;   
         double h = 5;
